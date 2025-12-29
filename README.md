@@ -20,22 +20,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Vídeo Teste
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Video teste para o desafio DIO.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Usei o D-iD para a formatação do vídeo.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Através de uma foto e com a minha prórpria voz a plataforma criou o vídeo.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Como resultado, um video mais ou menos, que movimentando meu rosto ficou bem esquisito.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
 ```
 
 ### Exemplos e Insigths
